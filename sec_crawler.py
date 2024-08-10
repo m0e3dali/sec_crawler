@@ -1,2 +1,7 @@
-print('HOW ARE WE TODAY?')
-print('This would go with 3rd commit')
+import fitz
+import pymupdf
+import aiohttp
+import tenacity
+import BeautifulSoup
+
+
